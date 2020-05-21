@@ -21,3 +21,32 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+Lab2/JSFLab/target
+
+Lab3/PrimeFaces/target
+
+Lab4/Requests/target
+
+Lab5/MDBLab/build
+Lab5/MDBLab/MDBLab-ejb/build
+Lab5/MDBLab/MDBLab-ejb/dist
+Lab5/MDBLab/MDBLab-ejb/test
+Lab5/MDBLab/MDBLab-war/build
+Lab5/MDBLab/MDBLab-war/dist
+Lab5/MDBLab/MDBLab-war/test
+
+Lab7/Complaints/target
+Lab7/ComplaintsClient/target
+Lab7/ComplaintsClient/src/test
+
+Lab8/MvcNews/bin
+Lab8/MvcNews/obj
+Lab8/MvcNews/wwwroot
+Lab8/MvcNews/MvcNews.csproj
+Lab8/MvcNews/MvcNews.csproj.user
+
+Lab9/CompanyApi/bin
+Lab9/CompanyApi/obj
+Lab9/CompanyApi/CompanyApi.csproj
+Lab9/CompanyApi/CompanyApi.csproj.user
