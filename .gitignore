@@ -36,6 +36,13 @@ Lab5/MDBLab/MDBLab-war/build
 Lab5/MDBLab/MDBLab-war/dist
 Lab5/MDBLab/MDBLab-war/test
 
+Lab6/bookings/.idea
+Lab6/bookings/.mvn
+Lab6/bookings/HELP.md
+Lab6/bookings/target
+Lab6/bookings/bookings.iml
+Lab6/bookings/src/test
+
 Lab7/Complaints/target
 Lab7/ComplaintsClient/target
 Lab7/ComplaintsClient/src/test
