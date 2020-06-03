@@ -57,3 +57,10 @@ Lab9/CompanyApi/bin
 Lab9/CompanyApi/obj
 Lab9/CompanyApi/CompanyApi.csproj
 Lab9/CompanyApi/CompanyApi.csproj.user
+
+Lab10/WebApiAjax/bin
+Lab10/WebApiAjax/obj
+Lab10/WebApiAjax/Properties
+Lab10/WebApiAjax/WebApiAjax.csproj
+Lab10/WebApiAjax/appsettings.Development.json
+Lab10/WebApiAjax/appsettings.json
