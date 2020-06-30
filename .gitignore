@@ -64,3 +64,10 @@ Lab10/WebApiAjax/Properties
 Lab10/WebApiAjax/WebApiAjax.csproj
 Lab10/WebApiAjax/appsettings.Development.json
 Lab10/WebApiAjax/appsettings.json
+
+Lab11/StudentsApi/.vscode
+Lab11/StudentsApi/bin
+Lab11/StudentsApi/obj
+Lab11/StudentsApi/Properties
+Lab11/StudentsFront/e2e
+Lab11/StudentsFront/node_modules
